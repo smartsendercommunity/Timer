@@ -11,7 +11,7 @@
 }
 </style>
 <script>
-var deadline="2022-01-04 10:15:00+0200";
+var deadline="Jan 07 2022 05:11:55+0200"; //Jan, Feb, Mar, Apr, May, June, July, Aug, Sept, Oct, Nov, Dec
 var endTimeText = "ВРЕМЯ ИСТЕКЛО!!!";
 var createTarget = "wYyOT3ZL5";
 var getTarget = window.location.href.split('?')[0].split('/lp/')[1];
